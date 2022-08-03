@@ -1,5 +1,5 @@
 # enter the directory where the Move.toml is,
 # compile
 aptos move compile --package-dir .
-#test
+# test
 aptos move compile --package-dir .
